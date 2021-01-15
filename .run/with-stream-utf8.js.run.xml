@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="with-stream-utf8.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="tests/with-stream-utf8.js" working-dir="$PROJECT_DIR$">
+    <method v="2" />
+  </configuration>
+</component>
